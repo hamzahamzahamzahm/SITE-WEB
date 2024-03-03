@@ -16,6 +16,10 @@ header{
         padding-left:30px;
         
         }
+        .a{
+            height: 1OOpx;
+            width: 150px;
+        }
 
 
     .image{
@@ -24,13 +28,33 @@ header{
     padding-left:40em;
     }
     
-    .pp{
+    .paragraphe{
         font-family: monospace;
         font-size: 3em;
         height: 20em;
         width: 10em;
         padding-left:4em;
     }
+
+    b{
+        color: chocolate;
+
+        }
+
+    #paragraphe1{
+        font-size:0.3em;
+        font-family: serif;
+    }
+
+    button{
+        margin-left: 20px;
+        background-color: chocolate;
+        color: #070707;
+        height: 3em;
+        width: 6em;
+        border-color: transparent;
+        }
+
     #pk{
         position: absolute;
     padding-bottom: 9em;
@@ -43,30 +67,6 @@ header{
         padding-top:5em;
     }
 
-    #ph{
-        font-size:0.3em;
-        font-family: serif;
-    }
-    
-    button{
-        margin-left: 20px;
-        background-color: chocolate;
-        color: #070707;
-        height: 3em;
-        width: 6em;
-        border-color: transparent;
-        }
-        b{
-            color: chocolate;
-
-            }
-    
-       
-            .a{
-                height: 1OOpx;
-                width: 150px;
-            }
- 
     .P4{
        
         padding-left: 0.5em;
@@ -86,17 +86,17 @@ header{
     
     
  
-    .img0{
+    .img1{
         position: absolute;
         margin-left: 90em;
         margin-top:1em;
 
     }
-    .Qualité{
+    .disimg1{
         position: absolute;
         font-size: 1.5em;
         margin-left: 59em;
-        margin-top:3em;
+        margin-top:0.5em;
         width: 380px;
         
     }
@@ -108,12 +108,12 @@ header{
         margin-left:5em;
     
     }
-    .pimg2{
+    .disimg2{
         position: absolute;
         font-size:1.5em;
         width: 380px;
     padding-left: 40em;
-   margin-top: 3em;
+   margin-top: 0.5em;
     padding-bottom:2em;
     }
 
@@ -125,13 +125,13 @@ header{
        
         margin-bottom:5em ;
     }
-    .op{
+    .disimg3{
         
         position:absolute;
         font-size:1.5em;
        padding-left:20em; 
        width:   400px;
-       margin-top:3em;
+       margin-top:0.5em;
     }
 
 .img4{
@@ -139,28 +139,27 @@ header{
 }
 
 
-    .g1{
+    .disimg4{
         
-        padding-bottom:4em;
+        padding-bottom:2em;
         width:4em;
         margin-left:2em;
         
     }
 
-
-    .d{
-        font-size:1.5em;
-        padding-bottom: 5em;
-       
-        width: 400px;
-       
-    }
     .h3{
         font-size: 1.5em;
         width:1em;
     }
 
-    .DIV2{
+    .pimg4{
+        font-size:1.5em;
+        padding-bottom: 2em;
+       
+        width: 400px;
+    }
+
+    .pfooter{
         background-color: #f7f3ee;
         width: 100%;
         height: 8em;
